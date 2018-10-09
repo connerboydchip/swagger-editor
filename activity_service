@@ -1,0 +1,25 @@
+	{
+        "contractID": "123456789",
+        "instrumentNumber": "12345678",
+	"behaviorCode": "BCBSAPHYS",
+	"fepOrderID": "58645-A25B852-GN3541569",
+	"referenceNumber": "FEPOC1234567",
+        "attributes": [
+         {"attrName":"claimId","attrValue":"654123657"},
+         {"attrName":"activityDate","attrValue":"2018-10-05T12:30:30.015Z"},
+         {"attrName":"bfEligibilityIndicator", "attrValue":"Yes"}
+         {"attrName":"ineligibleReasonDescription","attrValue":"N/A"},  
+         {"attrName":"fulfillmentStatus","attrValue":"Ordered"},
+         {"attrName":"vendorName","attrValue":"SunBasket"},
+         {"attrName":"shippingName","attrValue":"John Doe"},
+         {"attrName":"shippingEmail","attrValue":"noreply@chiprewards.com"},
+         {"attrName":"shippingAddress1","attrValue":"2901 2nd Ave South"},
+         {"attrName":"shippingAddress2","attrValue":"Suite 210"},
+         {"attrName":"shippingCity","attrValue":"Birmingham"},
+         {"attrName":"shippingState","attrValue":"Alabama"},
+         {"attrName":"shippingZipCode","attrValue":"35233"},
+         {"attrName":"Phone Number","attrValue":"205-555-5555"},
+         {"attrName":"vendorRefNumber","attrValue":"112365-1"},
+         {"attrName":"productSKU","attrValue":"12345ABC"}
+        ]
+        }
